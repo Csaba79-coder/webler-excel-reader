@@ -1,0 +1,8 @@
+Name	Course	Level	Start date	Type	Score	
+Földházi László	Java	beginner	01-szept.-2023	in person	150.0	
+Kovács János Pál	Python	advanced	01-ápr.-2023	online	600.0	
+Ábrahám Miklós	C#	intermediate	01-jún.-2023	in person	350.0	
+Antal Peter Attila	C++	advanced	01-ápr.-2023	online	650.0	
+Szőke Roland	Java	beginner	01-szept.-2023	online	200.0	
+Futó Péter	TypeScript	beginner	01-szept.-2023	in person	150.0	
+Perczel Gábor	JavaScript	intermediate	16-jún.-2023	in person	400.0	
